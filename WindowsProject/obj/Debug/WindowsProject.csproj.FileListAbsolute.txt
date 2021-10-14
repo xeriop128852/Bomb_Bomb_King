@@ -1,0 +1,9 @@
+C:\data\Code\WindowsProgramming\WindowsProject\bin\Debug\WindowsProject.exe.config
+C:\data\Code\WindowsProgramming\WindowsProject\bin\Debug\WindowsProject.exe
+C:\data\Code\WindowsProgramming\WindowsProject\bin\Debug\WindowsProject.pdb
+C:\data\Code\WindowsProgramming\WindowsProject\obj\Debug\WindowsProject.csprojAssemblyReference.cache
+C:\data\Code\WindowsProgramming\WindowsProject\obj\Debug\WindowsProject.Form1.resources
+C:\data\Code\WindowsProgramming\WindowsProject\obj\Debug\WindowsProject.Properties.Resources.resources
+C:\data\Code\WindowsProgramming\WindowsProject\obj\Debug\WindowsProject.csproj.GenerateResource.cache
+C:\data\Code\WindowsProgramming\WindowsProject\obj\Debug\WindowsProject.exe
+C:\data\Code\WindowsProgramming\WindowsProject\obj\Debug\WindowsProject.pdb
